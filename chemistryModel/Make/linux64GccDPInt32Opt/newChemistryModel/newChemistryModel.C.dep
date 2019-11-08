@@ -1,0 +1,4 @@
+$(OBJECTS_DIR)/newChemistryModel/newChemistryModel.C.dep: \
+newChemistryModel/newChemistryModel.C \
+
+

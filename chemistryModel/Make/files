@@ -1,0 +1,3 @@
+newChemistryModel/newChemistryModel.C
+
+LIB = $(FOAM_USER_LIBBIN)/libnewChemistryModel
